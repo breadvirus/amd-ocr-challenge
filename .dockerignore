@@ -1,0 +1,8 @@
+samples/
+output/
+input/
+__pycache__/
+*.ipynb
+*.zip
+.env
+*.log

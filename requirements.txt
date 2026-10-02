@@ -1,0 +1,8 @@
+# torch / torchvision / PIL come from the mandated ROCm base image - do NOT list torch here
+# (pip would replace the ROCm build with a CUDA build).
+transformers>=4.57.0
+accelerate>=1.0.0
+huggingface_hub>=0.34.0
+hf_xet          # fast parallel downloads from the Hugging Face Hub
+safetensors
+numpy

@@ -1,0 +1,8 @@
+__pycache__/
+*.zip
+*.pdf
+.env
+samples/
+output/
+aug/
+.ipynb_checkpoints/
